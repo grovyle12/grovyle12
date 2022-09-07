@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grovyle12
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently on Week 13 for Ironhack Miami!
+- 🌱 I’m a recent grade of Ironhack's Data Analytics bootcamp!
 - 💞️ I’m looking to collaborate on learning and growing hard skills, as well as developing personal projects
 - 📫 How to reach me mauricio.ruiz004@mymdc.net
 <!---
